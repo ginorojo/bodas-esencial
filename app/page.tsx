@@ -302,7 +302,7 @@ export default function InvitacionBodaBasica() {
 
           <motion.div
             {...fadeInUp}
-            className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6"
+            className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-6"
           >
             {[
               "https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=800&auto=format&fit=crop",
@@ -468,7 +468,7 @@ export default function InvitacionBodaBasica() {
                   RUT: 18.234.567-8
                 </p>
                 <p className="text-sm text-stone-500">
-                  valentina.boda@gmail.com
+                  vale.boda@gmail.com
                 </p>
               </div>
             </motion.div>
